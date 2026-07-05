@@ -1,0 +1,15 @@
+allowBuilds:
+  '@parcel/watcher': true
+  '@prisma/client': true
+  '@prisma/engines': true
+  '@sentry/cli': true
+  '@swc/core': true
+  prisma: true
+  sharp: true
+  unrs-resolver: true
+
+overrides:
+  effect: ^3.20.0
+  fast-xml-parser: ^5.7.0
+  postcss: 8.5.12
+  vite: 8.0.16
