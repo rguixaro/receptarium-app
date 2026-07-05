@@ -5,7 +5,7 @@ import { LegalDocument } from '@/components/legal/document'
 
 const lastUpdated = 'May 9, 2026'
 const contactEmail = 'privacy@rguixaro.dev'
-const repositoryUrl = 'https://github.com/rguixaro/cookbook-app'
+const repositoryUrl = 'https://github.com/rguixaro/receptarium-app'
 const licenseUrl = `${repositoryUrl}/blob/main/LICENSE`
 
 export const metadata: Metadata = {

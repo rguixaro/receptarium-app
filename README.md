@@ -57,8 +57,8 @@ An open-source web application to organize, manage, and share recipes.
 1. Clone the repository and install dependencies:
 
     ```bash
-    git clone https://github.com/rguixaro/cookbook-app.git
-    cd cookbook-app
+    git clone https://github.com/rguixaro/receptarium-app.git
+    cd receptarium-app
     pnpm install
     ```
 
